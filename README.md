@@ -36,10 +36,10 @@
 ## Screenshots
 
 ### User Interface
-![User Interface](ui1.jpg)
+![User Interface](images/ui1.jpg)
 
 ### Sample Output
-![Sample Output](ui2.jpg)
+![Sample Output](images/ui2.jpg)
 
 ---
 
